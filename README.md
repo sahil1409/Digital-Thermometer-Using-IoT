@@ -1,2 +1,2 @@
 # Digital-Thermometer-Using-IoT
-The system takes the temperature readings via the sensor and uploads it on ThingSpeak cloud
+Developed a digital thermometer using IOT using Arduino UNO along with ESP8266 Wi-Fi Module and LM35 Temperature Sensor. Readings were uploaded to the ThingsSpeak cloud.
